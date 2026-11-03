@@ -6,4 +6,7 @@ func RetainFirstHalf(str string) string {
 	}
 	return str[:len(str)/2]
 }
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
